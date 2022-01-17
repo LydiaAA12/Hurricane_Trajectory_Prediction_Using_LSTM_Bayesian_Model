@@ -1,2 +1,2 @@
 # Hurricane_Trajectory_Prediction_Using_LSTM_Bayesian_Model
-This project develops an effective LSTM (Long Short Time Memory) model based prediction for  hurricane trajectory with up-to 24 hour forecast capability. The bayesian element of the intended hybrid model is still underway and will be updated as soon as it's completed!
+In this project, we develop an effective LSTM (Long Short Time Memory) model based prediction for  hurricane trajectories with up-to 24 hour forecast capability. The bayesian element of the intended hybrid model is still underway and will be updated as soon as it's completed!
